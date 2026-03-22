@@ -24,4 +24,4 @@ Targeting product-company roles in **fintech & consumer apps** (2026).
 
 ## 📫 Let's Connect
 
-[LinkedIn]([https://www.linkedin.com/in/abhishek-d-39a90218b/]) · 
+[LinkedIn](https://www.linkedin.com/in/abhishek-d-39a90218b/) ·
