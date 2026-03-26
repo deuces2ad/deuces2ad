@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek 👋
 
-**iOS Tech Lead** with 5+ years building production mobile apps at scale.  
+**iOS Tech Lead** with 6+ years building production mobile apps at scale.  
 Targeting product-company roles in **fintech & consumer apps** (2026).
 
 ---
