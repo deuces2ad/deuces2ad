@@ -1,14 +1,13 @@
 # Hi, I'm Abhishek 👋
 
 **iOS Tech Lead** with 6+ years building production mobile apps at scale.  
-Targeting product-company roles in **fintech & consumer apps** (2026).
 
 ---
 
 ## 🛠 Stack
 
-**iOS:** SwiftUI · UIKit · Combine · async/await · MVVM · TCA  
-**Architecture:** MVVM · TCA · VIPER · Clean Architecture  
+**iOS:** SwiftUI · UIKit · Combine · async/await · MVVM ·  
+**Architecture:** MVVM  · VIPER · Clean Architecture  
 **Tooling:** Xcode · Instruments · Charles · Git  
 **Exploring:** Core ML · LLM API integration · on-device AI  
 
@@ -16,8 +15,7 @@ Targeting product-company roles in **fintech & consumer apps** (2026).
 
 ## 📌 Current Focus
 
-- 🧠 **DSA in Swift** — 190 problems, 14 patterns (Two Pointers → DP)
-- 📱 Building SwiftUI fintech-style projects
+- 🧠 **LangChain** — GEN AI through LangChain
 - 🤖 iOS × AI integration
 
 ---
